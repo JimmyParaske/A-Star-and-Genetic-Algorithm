@@ -1,7 +1,7 @@
 # A-Star-and-Genetic-Algorithm
 
 
-Assignment for course: **Artificial Intelligence**
+Assignment for course: "**Artificial Intelligence**"
 <br>*Department of Computer Science, AUEB*
 <br>
 
