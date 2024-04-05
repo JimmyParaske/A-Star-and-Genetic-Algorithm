@@ -1,8 +1,9 @@
 # A-Star-and-Genetic-Algorithm
-Solving the problem of Cannibals and Missionaries and N-queens problem.
 
 
 Assignment for course: **Artificial Intelligence**
 <br>*Department of Computer Science, AUEB*
+<br>
+Solving the problem of Cannibals and Missionaries and N-queens problem.
 
-See documentation [here](Report.pdf)
+See documentation **[here](Report.pdf)**
